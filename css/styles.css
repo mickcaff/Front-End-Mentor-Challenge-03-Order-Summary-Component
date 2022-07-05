@@ -1,0 +1,114 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Red Hat Display', sans-serif;
+    height: 100vh;
+    background-color: hsl(225, 100%, 94%);
+    background-image: url("../images/pattern-background-mobile.svg");
+    background-size: 100vw, 50vh;
+    background-repeat: no-repeat;
+}
+footer {
+    background-color: hsl(158, 36%, 37%);
+    height: 6vh;
+    width: 100%;
+    color: white;
+    font-size: 0.8rem;
+    position: fixed;
+    left: 0px;
+    bottom: 0px;
+    text-align: center;
+}
+.attribution {
+    margin: 10px auto;
+}
+.main-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 8vh;
+}
+.hero-illustration {
+    height: 20vh;
+    width: 90%;
+    border-radius: 1.5rem 1.5rem 0 0;
+    background-image: url('../images/illustration-hero.svg');
+    background-size: contain;
+    background-repeat: none;
+}
+.main-elements {
+    background-color: white;
+    height: 55vh;
+    width: 90%;
+    border-radius: 0 0 1.5rem 1.5rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.order-title {
+    font-size: 1.8rem;
+}
+.description {
+    color: hsl(224, 23%, 55%);
+    width: 75%;
+    font-size: 1rem;
+    line-height: 1.8;
+    text-align: center;
+}
+.plan {
+    background-color: hsl(225, 100%, 98%);
+    width: 85%;
+    padding: 1rem;
+    border-radius: 1rem;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.plan-type {
+    font-size: 1rem;
+}
+.plan-price {
+    color: hsl(224, 23%, 55%);
+}
+.payment-button {
+    color: white;
+    background-color: hsl(245, 75%, 52%);
+    font-size: 0.8rem;
+    font-weight: 700;
+    width: 85%;
+    padding: 1rem;
+    border-style: none;
+    border-radius: 1rem;
+    box-shadow: 0 1.2rem 0.5rem -0.4rem hsl(225, 100%, 94%);
+}
+.payment-button:hover {
+    cursor: pointer;
+}
+.cancel-link {
+    color: hsl(224, 23%, 55%);
+    font-size: 0.8rem;
+    font-weight: 700;
+    display: block;
+    text-decoration: none;
+}
+
+@media (min-width: 400px) {
+    body {
+        background-image: url("../images/pattern-background-desktop.svg");
+    }
+    .hero-illustration {
+        height: 190px;
+        width: 400px;
+    }
+    .main-elements {
+        height: 400px;
+        width: 400px;
+    }
+    .change-link {
+        font-size: 0.8rem;
+        padding-left: 4rem;
+    }
+}
