@@ -23,7 +23,7 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 Users should be able to:
 
-- Responsive design
+- See responsive designs in mobile and desktop
 - See hover states for interactive elements
 
 ### Screenshots
