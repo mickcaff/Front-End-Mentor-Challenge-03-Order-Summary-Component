@@ -40,7 +40,7 @@ Mobile View
 ### Links
 
 - Solution URL: [https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://creative-faloodeh-3c1926.netlify.app/](https://creative-faloodeh-3c1926.netlify.app/)
 
 ## My process
 
