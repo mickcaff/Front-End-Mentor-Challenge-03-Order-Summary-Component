@@ -73,6 +73,10 @@ footer {
 .plan-price {
     color: hsl(224, 23%, 55%);
 }
+.change-link {
+    font-size: 0.8rem;
+    padding-left: 2rem;
+}
 .payment-button {
     color: white;
     background-color: hsl(245, 75%, 52%);
@@ -108,7 +112,6 @@ footer {
         width: 400px;
     }
     .change-link {
-        font-size: 0.8rem;
         padding-left: 4rem;
     }
 }
