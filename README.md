@@ -8,7 +8,7 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
   - [Table of contents](#table-of-contents)
   - [Overview](#overview)
     - [The challenge](#the-challenge)
-    - [Screenshots](#screenshots)
+    - [Solution Screenshots](#solution-screenshots)
     - [Links](#links)
   - [My process](#my-process)
     - [Built with](#built-with)
@@ -26,7 +26,7 @@ Users should be able to:
 - See responsive designs in mobile and desktop
 - See hover states for interactive elements
 
-### Screenshots
+### Solution Screenshots
 
 Desktop View
 
@@ -54,7 +54,7 @@ Mobile View
 
 ### What I learned
 
-This is my third Front end mentor challenge. The process of working with FlexBox started to feel alot smoother.
+This is my third Front end mentor challenge. The process of working with FlexBox started to feel a lot smoother.
 
 I improved my skills with `box-shadow`. I was able to create the effect of the shadow evenly below the button.
 
