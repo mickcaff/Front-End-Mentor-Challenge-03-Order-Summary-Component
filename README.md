@@ -2,14 +2,14 @@
 
 This is a solution to the [Order summary card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
-#### Links
+#### Link
 
 - My Solution Live Site URL: [https://creative-faloodeh-3c1926.netlify.app/](https://creative-faloodeh-3c1926.netlify.app/)
 
 ## Table of contents
 
 - [Frontend Mentor - Order summary card solution](#frontend-mentor---order-summary-card-solution)
-      - [Links](#links)
+      - [Link](#link)
   - [Table of contents](#table-of-contents)
   - [Overview](#overview)
     - [The challenge](#the-challenge)
